@@ -202,5 +202,4 @@ if __name__ == '__main__':
             print("'"+choice+"' is not recognized as an internal command or operable program")
             continue
 
-#python d:/python/mstack/main_project/index.py     
 
