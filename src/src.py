@@ -278,10 +278,3 @@ Hope you have a great day of work,
 Thank you for using our software.
 ---Type 'help' for command line help---
         """)
-""" if j == 1: 
-j = Emid
-
-else: 
-print("Hello Puuki... :{ ")
-print(Emid)
-j+=Emid"""
